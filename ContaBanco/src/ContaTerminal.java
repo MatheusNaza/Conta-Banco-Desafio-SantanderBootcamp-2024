@@ -52,7 +52,7 @@ public class ContaTerminal {
         
         // 5 - Impressao dos dados finais concatenados
 
-        System.out.println("Olá " + nome + ", obrigado por criar uma conta em nosso banco, sua agência é"+ agencia + ", conta "+ numero + " e seu saldo " + saldoFinal + " já está disponível para saque");
+        System.out.println("Olá " + nome + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta "+ numero + " e seu saldo " + saldoFinal + " já está disponível para saque");
 
 
     }
